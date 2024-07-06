@@ -1,2 +1,2 @@
 # git215_setup
-Homework 1
+ ## Author: Justin Phillips
